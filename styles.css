@@ -1,0 +1,8 @@
+/* styles.css */
+body {
+    color: white;
+    background: linear-gradient(to right, #6a3093);
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
